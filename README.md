@@ -1,4 +1,4 @@
-# 🏃‍♂️ AeroFit Customer Analysis — Descriptive Statistics & Probability
+# 🏃‍♂️ AeroFit Customer Analysis - Descriptive Statistics & Probability
 
 ## 🎯 Overview
 This project analyzes AeroFit treadmill customer data to identify purchase patterns, demographic segmentation, and conditional probability trends.  
